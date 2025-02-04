@@ -53,7 +53,8 @@
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 au.download.microsoftupdate.com
 0.0.0.0 slscr.update.microsoft.com
-0.0.0.0 ctdl.windowsupdate.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 i.scdn.co
 0.0.0.0 image-scdn.cdn-gslb.spotify.com
 0.0.0.0 cp801.prod.do.dsp.mp.microsoft.com
