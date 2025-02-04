@@ -21,7 +21,22 @@
 #	::1             localhost
 
 
-
+0.0.0.0 login.microsoftonline.com
+0.0.0.0 analytics.jetbrains.com
+0.0.0.0 collector-pxdojv695v.protechts.net
+0.0.0.0 collector-pxdojv695v.px-cloud.net
+0.0.0.0 stk.protechts.net
+0.0.0.0 li.protechts.net
+0.0.0.0 media.licdn.net
+0.0.0.0 static.licdn.net
+0.0.0.0 dms.licdn.net
+0.0.0.0 client.protechts.net
+0.0.0.0 analytics.services.jetbrains.com
+0.0.0.0 resources.jetbrains.com
+0.0.0.0 account.jetbrains.com
+0.0.0.0 download.jetbrains.com
+0.0.0.0 download-cdn.jetbrains.com
+0.0.0.0 vulnerability-search.jetbrains.com
 0.0.0.0 184-86-53-99.deploy.static.akamaitechnologies.com
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0002.a-msedge.net
@@ -54,6 +69,8 @@
 0.0.0.0 au.download.microsoftupdate.com
 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 bg.microsoft.map.fastly.net
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 i.scdn.co
 0.0.0.0 image-scdn.cdn-gslb.spotify.com
@@ -126,6 +143,7 @@
 0.0.0.0 e7341.g.akamaiedge.net
 0.0.0.0 e7502.ce.akamaiedge.net
 0.0.0.0 e8218.ce.akamaiedge.net
+0.0.0.0 edgedl.me.gvt1.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedback.microsoft-hohm.com
