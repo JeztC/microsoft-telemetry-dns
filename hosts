@@ -23,13 +23,17 @@
 
 0.0.0.0 login.microsoftonline.com
 0.0.0.0 analytics.jetbrains.com
+0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 collector-pxdojv695v.protechts.net
 0.0.0.0 collector-pxdojv695v.px-cloud.net
 0.0.0.0 stk.protechts.net
 0.0.0.0 li.protechts.net
+0.0.0.0 default.exp-tas.com
 0.0.0.0 media.licdn.net
 0.0.0.0 static.licdn.net
 0.0.0.0 dms.licdn.net
+0.0.0.0 dms.licdn.com
+0.0.0.0 media.licdn.com
 0.0.0.0 client.protechts.net
 0.0.0.0 analytics.services.jetbrains.com
 0.0.0.0 resources.jetbrains.com
@@ -55,6 +59,7 @@
 0.0.0.0 uif.microsoft.com
 0.0.0.0 ctdl.windowsupdate.com
 0.0.0.0 fe2cr.update.microsoft.com
+0.0.0.0 update.microsoft.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 bat.bing.com
 0.0.0.0 da.xboxservices.com
@@ -68,7 +73,6 @@
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 au.download.microsoftupdate.com
 0.0.0.0 slscr.update.microsoft.com
-0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 bg.microsoft.map.fastly.net
 0.0.0.0 mobile.events.data.microsoft.com
