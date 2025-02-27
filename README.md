@@ -2,4 +2,4 @@
 
 Contains a list of telemetry endpoints in Windows 10. You can use this list to block all Windows 10 and Edge telemetry if you care about privacy and don't want your data to be collected.
 
-Navigate to ``C:\Windows\System32\drivers\etc\`` and then paste the ``hosts`` file inside there. Make sure Windows Defender won't remove it.
+Navigate to ``C:\Windows\System32\drivers\etc\`` and then paste the ``hosts`` file inside there. Make sure Windows Defender won't flag it as a malware, otherwise it won't work.
